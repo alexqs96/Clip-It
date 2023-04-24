@@ -9,8 +9,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 # Funciones
-- Cambiar el color del Header
-- Guardar Notas
+- Cambiar el color de la barra de navegación
+- Guardar notas
 - Guardarlas en 4 secciones
 - Borrar notas especificas
-- Responsive pero se aprovecha mas en PC o entorno con multiples pestañas
+- Diseño Adaptable pero se aprovecha mas en PC o entorno con multiples pestañas
