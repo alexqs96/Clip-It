@@ -4,9 +4,9 @@
 
 # Hecho con
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-00BFFF)](https://openai.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E)](https://www.ecma-international.org/ecma-262/6.0/)
+[![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC)](https://tailwindcss.com/)
 
 # Funciones
 - Cambiar el color de la barra de navegación
